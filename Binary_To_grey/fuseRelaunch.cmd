@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/binarytogrey_isim_beh.exe" -prj "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/binarytogrey_beh.prj" "work.binarytogrey" 

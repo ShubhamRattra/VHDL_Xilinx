@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/xst"
+elaborate
+-ifn Binary_to_Grey.prj
+-ifmt mixed

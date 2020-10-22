@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/Binary_to_Grey.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/Binary_To_grey/Binary_to_Grey.syr" 
