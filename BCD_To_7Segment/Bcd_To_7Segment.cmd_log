@@ -1,0 +1,2 @@
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/BCD_To_7Segment/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/BCD_To_7Segment/Bcd_To_7Segment.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/BCD_To_7Segment/Bcd_To_7Segment.syr" 
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/BCD_To_7Segment/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/BCD_To_7Segment/Bcd_To_7Segment.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/BCD_To_7Segment/Bcd_To_7Segment.syr" 

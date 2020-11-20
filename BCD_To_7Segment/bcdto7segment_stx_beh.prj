@@ -1,0 +1,2 @@
+vhdl isim_temp "Bcd_To_7Segment.vhd"
+vhdl isim_temp "bcdto7segment.vhd"
