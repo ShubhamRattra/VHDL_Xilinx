@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/sratt/Desktop/xillinx prog/Decimal_To_BCDEncoder_Behavioural/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/sratt/Desktop/xillinx prog/Decimal_To_BCDEncoder_Behavioural/xst"
+elaborate
+-ifn Decimal_to_BcdEncoder_Behavioural.prj
+-ifmt mixed

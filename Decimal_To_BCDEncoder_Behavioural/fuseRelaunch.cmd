@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/sratt/Desktop/xillinx prog/Decimal_To_BCDEncoder_Behavioural/DecimalToBCDEncoder_Behavioural_isim_beh.exe" -prj "C:/Users/sratt/Desktop/xillinx prog/Decimal_To_BCDEncoder_Behavioural/DecimalToBCDEncoder_Behavioural_beh.prj" "work.DecimalToBCDEncoder_Behavioural" 

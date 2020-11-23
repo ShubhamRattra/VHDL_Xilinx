@@ -1,0 +1,2 @@
+vhdl isim_temp "Decimal_to_BcdEncoder_Behavioural.vhd"
+vhdl isim_temp "DecimalToBCDEncoder_Behavioural.vhd"
