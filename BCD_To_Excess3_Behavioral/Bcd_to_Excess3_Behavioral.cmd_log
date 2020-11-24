@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/BCD_To_Excess3_Behavioral/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/BCD_To_Excess3_Behavioral/Bcd_to_Excess3_Behavioral.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/BCD_To_Excess3_Behavioral/Bcd_to_Excess3_Behavioral.syr" 
