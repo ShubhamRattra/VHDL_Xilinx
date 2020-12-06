@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/sratt/Desktop/xillinx prog/Implementation_16Mux_using_4MUX/Implementation_16muxusing4mux_isim_beh.exe -prj C:/Users/sratt/Desktop/xillinx prog/Implementation_16Mux_using_4MUX/Implementation_16muxusing4mux_beh.prj work.Implementation_16muxusing4mux 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/sratt/Desktop/xillinx prog/Implementation_16Mux_using_4MUX/Implementation_16Mux_using_4Mux.vhd" into library work
+Parsing VHDL file "C:/Users/sratt/Desktop/xillinx prog/Implementation_16Mux_using_4MUX/Implementation_16muxusing4mux.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture struct of entity mux4 [mux4_default]
+Compiling architecture structural of entity mux16 [mux16_default]
+Compiling architecture behavior of entity implementation_16muxusing4mux
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable C:/Users/sratt/Desktop/xillinx prog/Implementation_16Mux_using_4MUX/Implementation_16muxusing4mux_isim_beh.exe
+Fuse Memory Usage: 30116 KB
+Fuse CPU Usage: 530 ms
