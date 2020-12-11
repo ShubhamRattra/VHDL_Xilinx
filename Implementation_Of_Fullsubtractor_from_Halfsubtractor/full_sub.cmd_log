@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/Implementation_Of_Fullsubtractor_from_Halfsubtractor/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/Implementation_Of_Fullsubtractor_from_Halfsubtractor/full_sub.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/Implementation_Of_Fullsubtractor_from_Halfsubtractor/full_sub.syr" 
