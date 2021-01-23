@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/sratt/Desktop/xillinx prog/SR_FlipFlop_BehaviourModelling/Srflipflop_Behaviourmodelling_isim_beh.exe" -prj "C:/Users/sratt/Desktop/xillinx prog/SR_FlipFlop_BehaviourModelling/Srflipflop_Behaviourmodelling_beh.prj" "work.Srflipflop_Behaviourmodelling" 
