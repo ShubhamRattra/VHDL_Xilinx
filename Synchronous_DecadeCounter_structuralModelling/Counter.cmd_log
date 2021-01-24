@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/Synchronous_DecadeCounter_structuralModelling/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/Synchronous_DecadeCounter_structuralModelling/Counter.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/Synchronous_DecadeCounter_structuralModelling/Counter.syr" 
