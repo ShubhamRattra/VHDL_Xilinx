@@ -1,0 +1,3 @@
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/And_Gate_Mod.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/And_Gate_Mod.syr" 
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/And_Gate_Mod.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/And_Gate_Mod.syr" 
+xst -intstyle ise -filter "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/iseconfig/filter.filter" -ifn "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/And_Gate_Mod.xst" -ofn "C:/Users/sratt/Desktop/xillinx prog/AND_Gate/And_Gate_Mod.syr" 
